@@ -162,7 +162,7 @@ __確定した変更をまとめてリモートにドン！(push)__
 
 ##### リモートリポジトリとのやり取りのイメージ
 
-![repo_image](/Users/shingo/Desktop/remote_repo_image.png)
+![remote_repo_image](./img/remote_repo_image.png)
 
 
 ## 運用のコツ
@@ -278,5 +278,5 @@ __確定した変更をまとめてリモートにドン！(push)__
 * 紐づくリモートリポジトリのあだ名（識別名）を自由につけられる
 * 「origin」はデフォルトのあだ名（変更可）
 
-![repo_image](/Users/shingo/Desktop/origin_image.png)
+![origin_image](./img/origin_image.png)
 
