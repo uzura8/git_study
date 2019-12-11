@@ -70,7 +70,7 @@
 
 ##### リポジトリとブランチのイメージ
 
-![repo_image](./img/repo_image.png)
+![repo_image](https://raw.githubusercontent.com/uzura8/git_study/master/img/repo_image.png)
 
 
 
@@ -162,7 +162,7 @@ __確定した変更をまとめてリモートにドン！(push)__
 
 ##### リモートリポジトリとのやり取りのイメージ
 
-![remote_repo_image](./img/remote_repo_image.png)
+![remote_repo_image](https://raw.githubusercontent.com/uzura8/git_study/master/img/remote_repo_image.png)
 
 
 ## 運用のコツ
@@ -278,5 +278,5 @@ __確定した変更をまとめてリモートにドン！(push)__
 * 紐づくリモートリポジトリのあだ名（識別名）を自由につけられる
 * 「origin」はデフォルトのあだ名（変更可）
 
-![origin_image](./img/origin_image.png)
+![origin_image](https://raw.githubusercontent.com/uzura8/git_study/master/img/origin_image.png)
 
