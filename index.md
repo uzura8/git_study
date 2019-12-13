@@ -1,8 +1,17 @@
 # Git 入門
 
-このドキュメントは非技術者向けに Git の使い方をまとめたものです。
+このドキュメントは非技術者 & Windows ユーザ向けに Git の使い方をまとめたものです。
 
+##### 関連情報
 
+* [Backlog](https://coopnext.backlog.jp/projects/TECH_STUDY)
+* Git for Windows 関連
+    + [Git for Windows のインストール方法](https://qiita.com/elu_jaune/items/280b4773a3a66c7956fe)
+    + [Git for Windows のダウンロード](https://git-scm.com/download/win)
+    + [Git for Windows の初期設定 & ssh-key の作り方](https://qiita.com/hollyhock0518/items/a3fee20951cd92c87ed9)
+* SourceTree 関連
+    + [佐野さん資料](https://coopnext.backlog.jp/alias/file/1094505376)
+    + [SourceTree のダウンロード](https://www.atlassian.com/ja/software/sourcetree)
 
 ## Git とは
 
